@@ -1,3 +1,5 @@
+' https://developers.google.com/sheets/api/quickstart/dotnet
+
 Imports Google.Apis.Auth.OAuth2
 Imports Google.Apis.Sheets.v4
 Imports Google.Apis.Sheets.v4.Data
